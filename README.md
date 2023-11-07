@@ -49,7 +49,7 @@
 
 ## Contato
 
-Se você tiver alguma dúvida ou precisar de ajuda, sinta-se à vontade para entrar em contato conosco através do e-mail.📧
+Se você tiver alguma dúvida ou precisar de ajuda, sinta-se à vontade para entrar em contato conosco através do e-mail favelaware@gmail.com 📧
 
 - [Gabriel Lucas](https://github.com/gabriellucas11)
 - [João Vitor](https://github.com/machidaftw)
