@@ -51,8 +51,8 @@
 
 Se você tiver alguma dúvida ou precisar de ajuda, sinta-se à vontade para entrar em contato conosco através do e-mail.📧
 
-- [Gabriel Lucas](gabriel69.lucas@gmail.com)
-- [João Vitor](machidajvsj@hotmail.com)
-- [Lucelho Cristiano](lucelhocristiano28@gmail.com)
-- [Matheus Henrique](matheus-ribeiro121@hotmail.com)
-- [Raquel de Matos](raquelmatos09@yahoo.com.br)
+- [Gabriel Lucas](https://github.com/gabriellucas11)
+- [João Vitor](https://github.com/machidaftw)
+- [Lucelho Cristiano](https://github.com/LucelhoSilva)
+- [Matheus Henrique](https://github.com/M4theuzim)
+- [Raquel de Matos](https://github.com/rockiir)
